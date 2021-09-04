@@ -1,17 +1,15 @@
 import React from 'react';
 
-import styled , { createGlobalStyle } from 'styled-components';
+import styled  from 'styled-components';
 
 import Navbar from './navbar'
 import { StyledSection } from '../common/commons'
-import { TextContainer } from '../common/commons'
 import { StyledH2 } from '../common/commons'
 import { StyledP } from '../common/commons'
 import { StyledDiv } from '../common/commons'
 import { StyledFigure } from '../common/commons'
 import {TryButton} from '../common/commons'
 import {StyledImg} from '../common/commons'
-import { Medium } from '../../components/common/commons'
 import UIimage from '../../assets/imgs/UIimage.png'
 import BackgroundM from '../../assets/imgs/backgroundMobile.svg'
 import BackgroundD from '../../assets/imgs/BackgroundDesktop.svg'

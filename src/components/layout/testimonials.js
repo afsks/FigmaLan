@@ -42,11 +42,7 @@ const Profession = styled(StyledP)`
     font-size: 1.26rem;
     margin: 0;
 `
-const Figure = styled.figure`
-display: inline-flex;
-align-items: center;
-padding-left: 10px;
-`
+
 const STYLEDP = styled(StyledP)`
     font-size: 1.35rem;
     width: 60%;

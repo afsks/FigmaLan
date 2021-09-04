@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import { StyledH2, StyledSection, TextContainer, StyledP,  TryButton, StyledDiv } from '../../components/common/commons'
+import { StyledH2, StyledSection, TextContainer, StyledP } from '../../components/common/commons'
 
 import Twitter from '../../assets/icons/twitter.svg'
 import Facebook from '../../assets/icons/facebook.svg'

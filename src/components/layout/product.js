@@ -18,7 +18,6 @@ import { StyledDiv } from '../../components/common/commons'
 import { StyledFigure } from '../../components/common/commons'
 import { StyledImg } from '../../components/common/commons'
 import { TryButton } from '../../components/common/commons'
-import { Medium } from '../../components/common/commons'
 // import {  } from '../../components/common/commons'
 // -----/ComonStyles-----
 

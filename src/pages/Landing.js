@@ -1,5 +1,5 @@
 import React from 'react';
-import styled , { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from 'styled-components';
 
 // import Navbar from '../components/layout/navbar'
 import Home from '../components/layout/home'

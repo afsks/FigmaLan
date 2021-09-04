@@ -1,6 +1,4 @@
-import { render } from '@testing-library/react';
-import React from 'react';
-import styled,{createGlobalStyle} from 'styled-components';
+import styled from 'styled-components';
 
 export const Medium = "400"
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import { StyledH2, StyledSection, TextContainer, StyledP,  TryButton, StyledDiv, StyledInput } from '../../components/common/commons'
+import {  StyledSection,    TryButton, StyledDiv, StyledInput } from '../../components/common/commons'
 
 import Logo from '../../assets/logo.svg'
 import Menu from '../../assets/menu.svg'
